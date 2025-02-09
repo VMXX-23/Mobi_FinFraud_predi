@@ -1,6 +1,3 @@
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🚀 Fraud Detection Using Machine Learning 🛡️
 📌 Project Overview
 Fraudulent transactions pose a major risk to financial institutions and individuals. This project applies machine learning algorithms to detect and prevent fraudulent transactions efficiently.
@@ -61,6 +58,17 @@ Precision	99.70%
 Recall	99.32%
 F1-score	99.50%
 AUC-ROC	99.98%
+
+# 🤝 Contributing 🚀 Contributions are welcome! To contribute:
+
+Fork this repository
+Create a new branch (feature-branch)
+Commit your changes
+Submit a pull request
+
+# ⚖️ License
+This project is licensed under the MIT License – you are free to modify and distribute it while providing attribution.
+
 📌 Key Takeaways:
 ✅ High precision minimizes false fraud detections
 ✅ High recall ensures fraudulent transactions are effectively caught ❌
